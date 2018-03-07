@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<com.willkernel.app.audiobar.widget.ClockView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/dragHelperView"
+    android:layout_width="300dp"
+    android:layout_height="300dp"
+    android:layout_gravity="center" />
