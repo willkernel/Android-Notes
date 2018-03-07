@@ -1,4 +1,4 @@
-package com.willkernel.app.audiobar.widget;
+package com.willkernel.app.androidnotes.widget;
 
 /**
  * Created by willkernel on 2018/3/7.

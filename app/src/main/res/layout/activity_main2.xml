@@ -3,7 +3,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent">
 
-    <com.willkernel.app.audiobar.widget.OverScrollListView
+    <com.willkernel.app.androidnotes.widget.OverScrollListView
         android:id="@+id/listView"
         android:layout_width="match_parent"
         android:layout_height="match_parent"

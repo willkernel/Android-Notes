@@ -1,4 +1,4 @@
-package com.willkernel.app.audiobar.widget;
+package com.willkernel.app.androidnotes.widget;
 
 /**
  * Created by willkernel on 2018/3/7.
@@ -19,7 +19,7 @@ import android.support.annotation.Nullable;
 import android.util.AttributeSet;
 import android.view.View;
 
-import com.willkernel.app.audiobar.R;
+import com.willkernel.app.androidnotes.R;
 
 public class ReflectView extends View {
 

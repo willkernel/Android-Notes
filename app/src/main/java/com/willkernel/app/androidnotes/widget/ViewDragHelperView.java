@@ -1,18 +1,14 @@
-package com.willkernel.app.audiobar.widget;
+package com.willkernel.app.androidnotes.widget;
 
 
 import android.content.Context;
 import android.support.annotation.Nullable;
-import android.support.v4.view.MotionEventCompat;
 import android.support.v4.view.ViewCompat;
 import android.support.v4.widget.ViewDragHelper;
 import android.util.AttributeSet;
 import android.view.MotionEvent;
 import android.view.View;
-import android.view.ViewGroup;
 import android.widget.FrameLayout;
-
-import com.willkernel.app.audiobar.R;
 
 /**
  * Created by willkernel on 2018/3/2.

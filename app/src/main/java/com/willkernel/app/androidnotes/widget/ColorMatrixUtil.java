@@ -1,8 +1,7 @@
-package com.willkernel.app.audiobar.widget;
+package com.willkernel.app.androidnotes.widget;
 
 import android.graphics.Bitmap;
 import android.graphics.Canvas;
-import android.graphics.Color;
 import android.graphics.ColorMatrix;
 import android.graphics.ColorMatrixColorFilter;
 import android.graphics.Paint;

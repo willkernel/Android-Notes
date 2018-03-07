@@ -5,22 +5,22 @@
     android:clickable="true"
     android:focusable="true">
 
-    <com.willkernel.app.audiobar.widget.MyViewGroupB
+    <com.willkernel.app.androidnotes.widget.MyViewGroupB
         android:layout_width="300dp"
         android:layout_height="300dp"
         android:background="@color/colorAccent"
         android:clickable="true"
         android:focusable="true">
 
-        <com.willkernel.app.audiobar.widget.MyView
+        <com.willkernel.app.androidnotes.widget.MyView
             android:layout_width="200dp"
             android:layout_height="200dp"
             android:background="@color/colorPrimary"
             android:clickable="true"
             android:focusable="true" />
-    </com.willkernel.app.audiobar.widget.MyViewGroupB>
+    </com.willkernel.app.androidnotes.widget.MyViewGroupB>
 
-    <com.willkernel.app.audiobar.widget.MyView
+    <com.willkernel.app.androidnotes.widget.MyView
         android:layout_width="200dp"
         android:layout_height="200dp"
         android:layout_alignParentBottom="true"

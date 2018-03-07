@@ -1,4 +1,4 @@
-package com.willkernel.app.audiobar;
+package com.willkernel.app.androidnotes;
 
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
@@ -18,8 +18,8 @@ import android.widget.GridLayout;
 import android.widget.ImageView;
 import android.widget.SeekBar;
 
-import com.willkernel.app.audiobar.widget.ColorMatrixUtil;
-import com.willkernel.app.audiobar.widget.OverScrollListView;
+import com.willkernel.app.androidnotes.widget.ColorMatrixUtil;
+import com.willkernel.app.androidnotes.widget.OverScrollListView;
 
 public class MainActivity extends AppCompatActivity implements SeekBar.OnSeekBarChangeListener {
 

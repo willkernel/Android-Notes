@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?><!--<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"--><!--android:layout_width="match_parent"--><!--android:layout_height="match_parent">-->
 
-<com.willkernel.app.audiobar.widget.ViewDragHelperView xmlns:android="http://schemas.android.com/apk/res/android"
+<com.willkernel.app.androidnotes.widget.ViewDragHelperView xmlns:android="http://schemas.android.com/apk/res/android"
     android:id="@+id/dragHelperView"
     android:layout_width="match_parent"
     android:layout_height="match_parent">
@@ -33,4 +33,4 @@
             android:gravity="center"
             android:text="@string/app_name" />
     </FrameLayout>
-</com.willkernel.app.audiobar.widget.ViewDragHelperView><!--</FrameLayout>-->
+</com.willkernel.app.androidnotes.widget.ViewDragHelperView><!--</FrameLayout>-->

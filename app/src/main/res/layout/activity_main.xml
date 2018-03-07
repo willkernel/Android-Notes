@@ -3,12 +3,12 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent">
 
-    <com.willkernel.app.audiobar.widget.AudioBar
+    <com.willkernel.app.androidnotes.widget.AudioBar
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:visibility="gone" />
 
-    <com.willkernel.app.audiobar.widget.ScrollStickyView
+    <com.willkernel.app.androidnotes.widget.ScrollStickyView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:visibility="gone">
@@ -30,6 +30,6 @@
             android:layout_height="wrap_content"
             android:background="@mipmap/car3"
             android:scaleType="centerCrop" />
-    </com.willkernel.app.audiobar.widget.ScrollStickyView>
+    </com.willkernel.app.androidnotes.widget.ScrollStickyView>
 
 </FrameLayout>

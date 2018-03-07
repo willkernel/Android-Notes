@@ -1,4 +1,4 @@
-package com.willkernel.app.audiobar.widget;
+package com.willkernel.app.androidnotes.widget;
 
 import android.content.Context;
 import android.graphics.Bitmap;
@@ -14,7 +14,7 @@ import android.util.AttributeSet;
 import android.view.MotionEvent;
 import android.view.View;
 
-import com.willkernel.app.audiobar.R;
+import com.willkernel.app.androidnotes.R;
 
 /**
  * Created by willkernel on 2018/3/7.

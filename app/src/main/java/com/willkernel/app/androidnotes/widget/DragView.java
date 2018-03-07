@@ -1,4 +1,4 @@
-package com.willkernel.app.audiobar.widget;
+package com.willkernel.app.androidnotes.widget;
 
 import android.content.Context;
 import android.support.annotation.Nullable;
@@ -7,9 +7,6 @@ import android.util.AttributeSet;
 import android.util.Log;
 import android.view.MotionEvent;
 import android.view.View;
-import android.view.ViewGroup;
-import android.widget.FrameLayout;
-import android.widget.TextView;
 
 /**
  * Created by willkernel on 2018/3/2.

@@ -6,7 +6,7 @@
     android:orientation="vertical"
     android:padding="16dp">
 
-    <com.willkernel.app.audiobar.widget.FlagView
+    <com.willkernel.app.androidnotes.widget.FlagView
         android:layout_width="match_parent"
         android:layout_height="wrap_content" />
 </LinearLayout>
