@@ -34,7 +34,7 @@ public class MainActivity extends AppCompatActivity implements SeekBar.OnSeekBar
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_main15);
+        setContentView(R.layout.activity_surfaceview);
 //        setListAdapter();
 //        adjustColorFilter();
 //        setColorMatrix();

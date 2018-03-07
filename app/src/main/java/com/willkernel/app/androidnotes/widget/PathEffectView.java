@@ -58,7 +58,6 @@ public class PathEffectView extends View {
         mEffects[4]=new PathDashPathEffect(path,12,0, PathDashPathEffect.Style.ROTATE);
         mEffects[5]=new ComposePathEffect(mEffects[3],mEffects[1]);
         mEffects[6]=new SumPathEffect(mEffects[3],mEffects[1]);
-
     }
 
     @Override
